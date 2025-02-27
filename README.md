@@ -111,6 +111,6 @@ Solution: Use scalable architecture, Emphasize reliability.
  "Explain the impact of artificial intelligence on cybersecurity, including both benefits and risks."
  
  - Why is the improved prompt more effective?
- Clarity – The improved prompt clearly states the specific aspect of technology (AI in cybersecurity) rather than a broad and ambiguous topic.
- Specificity – It asks for both benefits and risks, guiding the AI to provide balanced information.
- Conciseness – The prompt is direct and avoids unnecessary words while still conveying all necessary details.
+  - Clarity – The improved prompt clearly states the specific aspect of technology (AI in cybersecurity) rather than a broad and ambiguous topic.
+  - Specificity – It asks for both benefits and risks, guiding the AI to provide balanced information.
+  - Conciseness – The prompt is direct and avoids unnecessary words while still conveying all necessary details.
