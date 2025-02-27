@@ -104,10 +104,10 @@ Solution: Use scalable architecture, Emphasize reliability.
  - developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
- Vague Prompt:
+ - Vague Prompt:
  "Tell me about technology."
  
- Improved Prompt:
+ - Improved Prompt:
  "Explain the impact of artificial intelligence on cybersecurity, including both benefits and risks."
  
  - Why is the improved prompt more effective?
